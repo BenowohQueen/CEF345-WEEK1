@@ -1,0 +1,10 @@
+# MarketStock Design
+## 1. Architecture style
+(client-server monolith with layers.
+## 2. Architecture diagram
+(Add the diagram image later
+## 3. Deployment diagram
+## 4. ER diagram and tables
+## 5. API endpoints
+## 6. Traceability table
+## 7. Design decisions
